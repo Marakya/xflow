@@ -20,7 +20,9 @@
 1. Создание файловой структуры и виртуального окружения
 
 Также было создано виртуальное откружение с версией питона 3.8
-![Снимок экрана от 2023-11-18 11-16-52](https://github.com/Marakya/xflow/assets/113238801/ad97989b-3146-482c-964f-ae1c0c10166f)
+
+![image](https://github.com/Marakya/xflow/assets/113238801/c684f8b4-3d6f-4626-8f27-dd2498d146d0)
+
 
 2. Airflow
 
@@ -32,16 +34,16 @@
    ```
    Запуск
    
-   ![Снимок экрана от 2023-11-18 11-21-49](https://github.com/Marakya/xflow/assets/113238801/d0c3b120-28ea-4155-ab15-e24bd3b7c8b7)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/0e67471c-aa83-4317-b519-a659239f8926)
 
    Запускаем в новом окне Scheduler для выполнения команд по расписанию и отслеживания новых скрпитов в папке dags. Также перед запуском необходимо установить значение переменной окружения AIRFLOW_HOME
    
-   ![Снимок экрана от 2023-11-18 11-30-14](https://github.com/Marakya/xflow/assets/113238801/8bfce6b9-09c5-44a2-b320-746a791fee5e)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/87a5a587-ab5c-49fe-96e3-d68b967cc3a8)
+
 
    В папке dags создаем скрипт (youtube_comments_score.py), который с использованием BashOperator вызывает выполнение python скриптов (в папке scripts) и объединяет эти операторы в конвейер оператором >>.
    
    ![image](https://github.com/Marakya/mlops_xflow/assets/113238801/53697202-2f12-403a-acae-ecf7077c0427)
-
 
    В итоге, запустив конвейер операций на выполнение, мы увидим успешно выполненную задачу.
 
@@ -59,7 +61,8 @@
    export MLFLOW_REGISTRY_URI=mlflow
    ```
    
-   ![Снимок экрана от 2023-11-18 11-32-28](https://github.com/Marakya/xflow/assets/113238801/e1ab2b4b-02de-4c92-8715-e9dca6754e17)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/d00320c1-80f5-4154-bf92-8126521aabbe)
+
 
    Также в скриптах необходимо установить нужные нам объекты под наблюдение mlflow
    
