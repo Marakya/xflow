@@ -77,5 +77,4 @@
 
    Здесь также можно найти артефакты 
    ![2023-11-17 (1)](https://github.com/Marakya/xflow/assets/113238801/d83f5bfc-f21c-4ea9-a04e-2e89a11c9287)
-
    
