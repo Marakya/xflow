@@ -47,9 +47,10 @@
 
    В итоге, запустив конвейер операций на выполнение, мы увидим успешно выполненную задачу.
 
-   ![2023-11-17 (4)](https://github.com/Marakya/xflow/assets/113238801/61c5cbe0-de53-4098-af8e-541bb6d8f7c6)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/1b679fd1-5795-4a20-9a93-6d335b2c20db)
 
-   ![2023-11-17 (5)](https://github.com/Marakya/xflow/assets/113238801/75f62ea6-9f0f-49cc-b977-1ab070ea9744)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/da110cc3-ad62-4609-a3d6-01ce8e702584)
+
 
 4. Mlflow
 
