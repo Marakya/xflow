@@ -73,12 +73,13 @@
    
    ![image](https://github.com/Marakya/mlops_xflow/assets/113238801/c92ff840-48fe-45e2-a1e8-2094dd98d2dd)
 
-   ![2023-11-17 (2)](https://github.com/Marakya/xflow/assets/113238801/827a6fda-2ebd-4718-ac76-628db313d8f6)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/1e583f9d-7c97-4756-85ee-07d6a2fdba19)
+
+   ![image](https://github.com/Marakya/xflow/assets/113238801/6113987e-4d52-4b19-ba61-2d6ab897b7d6)
    
-   ![2023-11-17 (3)](https://github.com/Marakya/xflow/assets/113238801/9e1178bc-28c7-47d9-9b39-f2002beb539e)
-   
-   ![2023-11-17 (6)](https://github.com/Marakya/xflow/assets/113238801/e4ffa1bd-d945-4628-bd9e-d5892074a3dd)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/51d2848b-07b9-4098-8338-8676d11e98c2)
 
    Здесь также можно найти артефакты 
-   ![2023-11-17 (1)](https://github.com/Marakya/xflow/assets/113238801/d83f5bfc-f21c-4ea9-a04e-2e89a11c9287)
+   ![image](https://github.com/Marakya/xflow/assets/113238801/a2ab59e3-3b0c-4ae7-8695-d125a9c2b8be)
+
    
