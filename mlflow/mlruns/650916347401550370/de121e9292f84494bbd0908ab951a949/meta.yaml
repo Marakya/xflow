@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/650916347401550370/de121e9292f84494bbd0908ab951a949/artifacts
+end_time: 1700227203058
+entry_point_name: ''
+experiment_id: '650916347401550370'
+lifecycle_stage: active
+run_id: de121e9292f84494bbd0908ab951a949
+run_name: fearless-gull-376
+run_uuid: de121e9292f84494bbd0908ab951a949
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700227195837
+status: 3
+tags: []
+user_id: xflow

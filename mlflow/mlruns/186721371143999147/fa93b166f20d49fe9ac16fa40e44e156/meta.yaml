@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/186721371143999147/fa93b166f20d49fe9ac16fa40e44e156/artifacts
+end_time: 1700227034937
+entry_point_name: ''
+experiment_id: '186721371143999147'
+lifecycle_stage: active
+run_id: fa93b166f20d49fe9ac16fa40e44e156
+run_name: thoughtful-midge-924
+run_uuid: fa93b166f20d49fe9ac16fa40e44e156
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700227030141
+status: 3
+tags: []
+user_id: xflow

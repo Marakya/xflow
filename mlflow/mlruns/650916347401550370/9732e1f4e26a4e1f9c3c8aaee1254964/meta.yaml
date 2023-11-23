@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/650916347401550370/9732e1f4e26a4e1f9c3c8aaee1254964/artifacts
+end_time: 1700227062394
+entry_point_name: ''
+experiment_id: '650916347401550370'
+lifecycle_stage: active
+run_id: 9732e1f4e26a4e1f9c3c8aaee1254964
+run_name: legendary-carp-874
+run_uuid: 9732e1f4e26a4e1f9c3c8aaee1254964
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700227055003
+status: 3
+tags: []
+user_id: xflow

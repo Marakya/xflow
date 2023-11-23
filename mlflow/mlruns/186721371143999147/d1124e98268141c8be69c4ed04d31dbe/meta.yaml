@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/186721371143999147/d1124e98268141c8be69c4ed04d31dbe/artifacts
+end_time: 1700227175206
+entry_point_name: ''
+experiment_id: '186721371143999147'
+lifecycle_stage: active
+run_id: d1124e98268141c8be69c4ed04d31dbe
+run_name: redolent-hog-876
+run_uuid: d1124e98268141c8be69c4ed04d31dbe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700227170609
+status: 3
+tags: []
+user_id: xflow
